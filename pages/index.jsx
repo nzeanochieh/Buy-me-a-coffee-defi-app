@@ -214,7 +214,7 @@ export default function Home() {
                   type="button"
                   onClick={buyCoffee}
                 >
-                  Send 1 Coffee for 0.001ETH
+                  Send 1 Coffee for 0.001AVAX
                 </button>
               </div>
             </form>
